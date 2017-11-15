@@ -1,0 +1,14 @@
+netbean的python插件源：http://deadlock.netbeans.org/hudson/job/nbms-and-javadoc/lastStableBuild/artifact/nbbuild/nbms/updates.xml.gz
+第一章
+1.输入输出，含数值与字符；
+2.运算符；
+3.数据类型；
+4.函数及常用函数(abs,round,sqrt,floor)
+5.导入文件模块及函数调用
+6.文件的执行
+7.语句的注释、单双引号及转义引号
+8.数值转换为字符串
+9.长字符串、转义字符
+第二章
+1.数据结构：序列、映射、集合
+2.序列的索引、分片操作，加（连接）、乘（复制）、赋值（也可增加、删除）、删除运算，成员判断，最大值、最小值、长度
