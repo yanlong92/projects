@@ -2,6 +2,6 @@
 name = raw_input("what is your name?")
 print "hello,"+name+"!"
 print "python"
-print "hello,world!"
+print "hello,python!"
 
 
